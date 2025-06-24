@@ -97,5 +97,3 @@ Or, if you have a launch script (e.g., `run_shiny_app.bat` or `run_shiny_app.com
 [MIT License](LICENSE) (or specify your license here)
 
 ---
-
-*Created by [Your Name or Lab/Group].*

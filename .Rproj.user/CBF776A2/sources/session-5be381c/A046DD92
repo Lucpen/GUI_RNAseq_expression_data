@@ -1,0 +1,26 @@
+{
+    "id": "A046DD92",
+    "path": "~/workspace/CMMS/RNAseq/scripts/GUI_RNAseq_expression_data/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "355229901",
+    "contents": "",
+    "dirty": false,
+    "created": 1750747429762.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "8,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1750747581,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1750747581813,
+    "read_only": false,
+    "read_only_alternatives": []
+}

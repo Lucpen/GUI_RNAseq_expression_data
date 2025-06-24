@@ -1,0 +1,5 @@
+# Ignore the data folder and its contents
+data/
+
+# Ignore all .bat files
+*.bat

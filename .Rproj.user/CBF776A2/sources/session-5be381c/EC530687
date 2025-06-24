@@ -1,0 +1,26 @@
+{
+    "id": "EC530687",
+    "path": "~/workspace/CMMS/RNAseq/scripts/GUI_RNAseq_expression_data/modules/load_data.R",
+    "project_path": "modules/load_data.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1750747477269.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1750749258,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1750749258,
+    "read_only": false,
+    "read_only_alternatives": []
+}
